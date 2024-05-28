@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    font-family: 'Dont Walk Run', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    background-position: center;
+    height: 100vh;
+    overflow: hidden; 
+}
+
+img {
+    width: 30%;
+}
+
